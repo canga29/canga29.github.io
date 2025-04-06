@@ -3,7 +3,6 @@ title: "Carlos Angarita"
 format: pdf
 fontsize: 11pt
 geometry: margin=1in
-mainfont: "Arial"
 ---
 # Carlos Angarita
 tatoangarita29@gmail.com | [LinkedIn](https://linkedin.com/in/carlosangarita007726213)
