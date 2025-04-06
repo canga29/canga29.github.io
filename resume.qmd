@@ -1,70 +1,70 @@
 ---
-title: "Carlos Angarita"
-format: pdf
-fontsize: 11pt
-geometry: margin=1in
+layout: cv
+title: Carlos Angaritas Resume
 ---
 # Carlos Angarita
-tatoangarita29@gmail.com | [LinkedIn](https://linkedin.com/in/carlosangarita007726213)
+Physicist, Mathematician, Cambridge professor.
+
+<div id="webaddress">
+<a href="mailto:tatoangarita29@gmail.com">tatoangarita29@gmail.com</a>
+| <a href="https://linkedin.com/in/carlosangarita007726213">My Linkedin</a>
+</div>
 
 ---
 
 ## Education
 
-**Bachelor of Science in Business Analytics**  
-Brigham Young University–Idaho — Rexburg, ID  
-*January 2021 – April 2026*  
-- Minor: Finance, Economics  
+### Bachelor of Science in Business Analytics  
+**Brigham Young University–Idaho**, Rexburg, ID  
+*Jan 2021 – Apr 2026*  
+- Minors: Finance, Economics  
 - GPA: 2.5  
-- Relevant Courses: Advanced Financial Management, Managerial Economics, Investments, Money & Banking  
-- **Certifications**: Bloomberg Market Concepts  
+- Courses: Advanced Financial Management, Managerial Economics, Investments, Money & Banking  
+- Certification: Bloomberg Market Concepts
 
 ---
 
 ## Work Experience
 
-**Rental Technician**  
-*Outdoor Resource Center – BYU-Idaho* | Rexburg, ID  
+### Rental Technician  
+**Outdoor Resource Center – BYU-Idaho**, Rexburg, ID  
 *Jan 2023 – Present*  
-- Set ski bindings and provided gear support for over 20 customers.  
-- Conducted statistical analysis on rental item usage and lifespan, giving managers data-driven insight for demand forecasting.  
-- Managed and maintained rental inventory of 200+ items, ensuring timely check-ins, availability, and upkeep.
+- Served over 20 customers weekly, setting ski bindings and handling rentals  
+- Performed statistical analysis on rental lifespans to support demand forecasting  
+- Managed and tracked inventory of 200+ items
 
-**Kitchen Porter**  
-*BYU-Idaho Food Services* | Rexburg, ID  
+### Kitchen Porter  
+**BYU-Idaho Food Services**, Rexburg, ID  
 *May 2022 – Dec 2022*  
-- Operated meat slicer to prep meats and cheeses for 4 kitchen areas.  
-- Inspected food quality daily for texture, temperature, and freshness.  
-- Estimated daily meat and cheese needs based on past demand, helping improve sustainability and reduce waste.
+- Sliced meats and cheeses for 4 kitchen sections  
+- Conducted daily quality checks on food appearance, texture, and temperature  
+- Helped estimate daily food supply needs based on past demand
 
 ---
 
 ## Volunteer Experience
 
-**Tutoring Program**  
-Colegio Panamericano — Bucaramanga, Colombia  
-*August 2017 – December 2018*  
-- Tutored 4 students (ages 10–12) weekly in English.  
-- Created custom lesson plans and engaging activities to improve language retention.  
-- Adapted teaching methods based on individual learning styles.
+### English Tutor  
+**Colegio Panamericano**, Bucaramanga, Colombia  
+*Aug 2017 – Dec 2018*  
+- Tutored 4 students weekly in English (ages 10–12)  
+- Created lesson plans and dynamic learning sessions  
+- Improved teaching strategies based on student needs
 
 ---
 
 ## Skills
 
-**Programming & Databases:** Python, SQL, R, MySQL  
-**Data Tools:** Tableau, Power BI, Microsoft Excel  
-**Other Tools:** Microsoft Word, PowerPoint  
-> *Note: All tools above used in college-level projects and coursework.*
+- **Programming & Databases:** Python, SQL, R, MySQL  
+- **Analytics Tools:** Tableau, Power BI, Excel  
+- **Other Software:** Microsoft Word, PowerPoint
 
 ---
 
 ## Additional Information
 
-**Languages:** English (fluent), Spanish (native)  
-**Interests:** Soccer, Basketball, Music, Economics, Agriculture, Reading
-
-
+- **Languages:** English (fluent), Spanish (native)  
+- **Interests:** Soccer, Basketball, Music, Economics, Agriculture, Reading
 
 <!-- ### Footer
 
